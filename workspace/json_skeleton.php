@@ -66,4 +66,6 @@ $profile                     = new stdClass();
 $profile->basic['basic']     = $basic;
 $profile->full['full']       = $full;
 $profile->contact['contact'] = $contact;
+
+
 ?>
