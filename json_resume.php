@@ -1,7 +1,7 @@
 <?php
 /**
- * Created by IntelliJ IDEA.
- * User: admin
+ * Created by oasisfleeting
+ * User: oasisfleeting
  * Date: 1/2/2016
  * Time: 4:52 AM
  */
@@ -68,6 +68,13 @@ class JSonResume
 		return $skeleton->basics;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapWork($res, stdClass $skeleton = null, $proarray = array())
 	{
 		foreach ($res['positions']['position'] as $prokey => $resval)
@@ -87,6 +94,13 @@ class JSonResume
 		return $skeleton->work;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapVolunteer($res, stdClass $skeleton = null, $proarray = array())
 	{
 		foreach ($res['volunteer'] as $vekey => $resval)
@@ -111,6 +125,13 @@ class JSonResume
 		return $skeleton->volunteer;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapEducation($res, stdClass $skeleton = null, $proarray = array())
 	{
 		foreach ($res['educations'] as $edukey => $resval)
@@ -149,6 +170,13 @@ class JSonResume
 		return $skeleton->education;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapAwards($res, stdClass $skeleton = null, $proarray = array())
 	{
 		foreach ($res['honors-awards'] as $awkey => $resval)
@@ -168,6 +196,13 @@ class JSonResume
 		return $skeleton->awards;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapPublications($res, stdClass $skeleton = null, $proarray = array())
 	{
 		if (isset($res['publications']))
@@ -191,6 +226,13 @@ class JSonResume
 		return $skeleton->publications;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapSkills($res, stdClass $skeleton = null, $proarray = array())
 	{
 		foreach ($res['skills']['skill'] as $skey => $sval)
@@ -206,6 +248,13 @@ class JSonResume
 		return $skeleton->skills;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapLanguages($res, stdClass $skeleton = null, $proarray = array())
 	{
 		foreach ($res['languages']['language'] as $lang)
@@ -220,6 +269,13 @@ class JSonResume
 		return $skeleton->languages;
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapInterests($res, stdClass $skeleton = null, $proarray = array())
 	{
 		/****NEEDS FURTHER EXPLORATION****/
@@ -238,6 +294,13 @@ class JSonResume
 
 	}
 
+	/**
+	 * @param               $res
+	 * @param stdClass|null $skeleton
+	 * @param array         $proarray
+	 *
+	 * @return array
+	 */
 	public function mapReference($res, stdClass $skeleton = null, $proarray = array())
 	{
 		foreach ($res['recommendations-received'] as $resval)
@@ -256,7 +319,7 @@ class JSonResume
 
 
 
-
+/*
 $linkedin_response = file_get_contents('response.json');
 $skeleton          = file_get_contents('json_resume_schema.json');
 $skeleton          = json_decode($skeleton);
@@ -424,7 +487,7 @@ foreach ($skeleton as $key => $val)
 			break;
 
 		case 'interests':
-			/****NEEDS FURTHER EXPLORATION****/
+			///****NEEDS FURTHER EXPLORATION***//*/
 			$hold     = new stdClass();
 			$proarray = array();
 			foreach ($res['interests'] as $resval)
@@ -436,7 +499,7 @@ foreach ($skeleton as $key => $val)
 			}
 			$skeleton->interests = (count($proarray) >= 1) ? $proarray : $skeleton->interests;
 			break;
-		/***************END****************/
+		///***************END***************//*/
 		case 'references':
 			foreach ($res['recommendations-received'] as $resval)
 			{
@@ -449,3 +512,4 @@ foreach ($skeleton as $key => $val)
 			break;
 	}
 }
+*/
