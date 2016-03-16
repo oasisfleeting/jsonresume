@@ -1,5 +1,4 @@
-{
-  "basics": {
+{"basics": {
     "name": "",
     "label": "",
     "picture": "",
@@ -76,5 +75,4 @@
   "references": [{
     "name": "",
     "reference": ""
-  }]
-}
+  }]}

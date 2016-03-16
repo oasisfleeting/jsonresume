@@ -1,0 +1,1187 @@
+{
+  "apiStandardProfileRequest": {
+    "headers": {
+      "_total": 1,
+      "values": [
+        {
+          "name": "x-li-auth-token",
+          "value": "name:rNJi"
+        }
+      ]
+    },
+    "url": "https:\/\/api.linkedin.com\/v1\/people\/0mgTdMgSzl"
+  },
+  "boundAccountTypes": {
+    "_total": 2,
+    "values": [
+      {
+        "boundAccounts": {
+          "_total": 1,
+          "values": [
+            {
+              "accountType": "GOOGLE2.0",
+              "bindingStatus": "authenticated",
+              "id": 252515519,
+              "isPrimary": false,
+              "providerAccountId": "112849564168063468705",
+              "providerAccountName": "silicon.lyle@gmail.com"
+            }
+          ]
+        },
+        "numAccounts": 1
+      },
+      {
+        "boundAccounts": {
+          "_total": 1,
+          "values": [
+            {
+              "accountType": "TWITTER",
+              "bindingStatus": "authenticated",
+              "id": 182639458,
+              "isPrimary": true,
+              "providerAccountId": "614543081",
+              "providerAccountName": "muck_slinger"
+            }
+          ]
+        },
+        "numAccounts": 1
+      }
+    ]
+  },
+  "courses": {
+    "_total": 5,
+    "values": [
+      {
+        "id": 40,
+        "name": "Java"
+      },
+      {
+        "id": 54,
+        "name": "VB.Net"
+      },
+      {
+        "id": 55,
+        "name": "C#.Net"
+      },
+      {
+        "id": 56,
+        "name": "Web Development"
+      },
+      {
+        "id": 57,
+        "name": "OOP Concepts"
+      }
+    ]
+  },
+  "currentShare": {
+    "author": {
+      "firstName": "Lyle",
+      "id": "0mgTdMgSzl",
+      "lastName": "Mcclanahan"
+    },
+    "comment": "Check out developer.linkedin.com! http:\/\/linkd.in\/1FC2PyG",
+    "content": {
+      "eyebrowUrl": "http:\/\/linkd.in\/1FC2PyG",
+      "resolvedUrl": "http:\/\/linkd.in\/1FC2PyG",
+      "shortenedUrl": "http:\/\/linkd.in\/1FC2PyG",
+      "submittedImageUrl": "https:\/\/developer.linkedin.com\/etc\/designs\/linkedin\/katy\/global\/clientlibs\/img\/default-share.png",
+      "submittedUrl": "http:\/\/linkd.in\/1FC2PyG",
+      "thumbnailUrl": "https:\/\/media.licdn.com\/media-proxy\/ext?w=80&h=100&f=&hash=FORxXovZFhYl%2B1%2BEQt1nqArdXeE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6ulg0fzhMx5bzPoUa-70JDTIySAW_8RHDuqcrUNTSwLpmcZu74-gZDLHVfj19jO6a3F2y-QMLgNNmzJIkvz8u8dtP7bwoBJhgzg2ha4MV2KhElp5HoFeX3",
+      "title": "Home | LinkedIn Developer Network"
+    },
+    "id": "s6015697024744243200",
+    "source": {
+      "application": {
+        "name": "Developer REST Console"
+      },
+      "serviceProvider": {
+        "name": "API"
+      }
+    },
+    "timestamp": 1434253936000,
+    "visibility": {
+      "code": "anyone"
+    }
+  },
+  "dateOfBirth": {
+    "day": 13,
+    "month": 7,
+    "year": 1981
+  },
+  "educations": {
+    "_total": 1,
+    "values": [
+      {
+        "activities": "MMORPG Recreational\nContribute to building a world using Open GL, your very own character in Blender and script your characters movements using python.",
+        "degree": "Diploma Computer Science",
+        "endDate": {
+          "year": 2006
+        },
+        "fieldOfStudy": "Computer Science",
+        "id": 128463122,
+        "notes": "Graduated top of my class, not just setting, but defining the curve.",
+        "schoolName": "Vatterott College-Wichita",
+        "startDate": {
+          "year": 2004
+        }
+      }
+    ]
+  },
+  "emailAddress": "admin@acoolsip.com",
+  "firstName": "Lyle",
+  "following": {
+    "companies": {
+      "_total": 0
+    },
+    "industries": {
+      "_total": 1,
+      "values": [
+        {
+          "id": 96
+        }
+      ]
+    },
+    "people": {
+      "_total": 0
+    },
+    "specialEditions": {
+      "_total": 0
+    }
+  },
+  "formattedName": "Lyle Mcclanahan",
+  "headline": "Silicon-Prairie.Net LLC",
+  "honorsAwards": {
+    "_total": 1,
+    "values": [
+      {
+        "id": 61,
+        "name": "Salutatorian"
+      }
+    ]
+  },
+  "id": "0mgTdMgSzl",
+  "imAccounts": {
+    "_total": 1,
+    "values": [
+      {
+        "id": 12,
+        "imAccountName": "oasis.from.life",
+        "imAccountType": "gtalk"
+      }
+    ]
+  },
+  "industry": "Information Technology and Services",
+  "interests": "Technology and Creativity",
+  "jobBookmarks": {
+    "_total": 0
+  },
+  "languages": {
+    "_total": 2,
+    "values": [
+      {
+        "id": 246,
+        "language": {
+          "name": "English"
+        }
+      },
+      {
+        "id": 247,
+        "language": {
+          "name": "Espanol"
+        }
+      }
+    ]
+  },
+  "lastModifiedTimestamp": 1344521266639,
+  "lastName": "Mcclanahan",
+  "location": {
+    "country": {
+      "code": "us"
+    },
+    "name": "Wichita, Kansas Area"
+  },
+  "mainAddress": "Wichita Kansas",
+  "memberUrlResources": {
+    "_total": 2,
+    "values": [
+      {
+        "id": 14,
+        "name": "Personal Website",
+        "url": "http:\/\/www.acoolsip.com"
+      },
+      {
+        "id": 15,
+        "name": "Portfolio",
+        "url": "http:\/\/www.acoolsip.com\/portfolio"
+      }
+    ]
+  },
+  "numConnections": 57,
+  "numConnectionsCapped": false,
+  "numRecommenders": 0,
+  "phoneNumbers": {
+    "_total": 1,
+    "values": [
+      {
+        "phoneNumber": "(316) JDK-HTML",
+        "phoneType": "work"
+      }
+    ]
+  },
+  "pictureUrl": "https:\/\/media.licdn.com\/mpr\/mprx\/0_dCvykodarmMkZB4UbbL7kW4Kpuuw4-4UI5TikeHriWZsFnfR5k5KoHyO-G2vUzJBHTBCwfsny2UN",
+  "pictureUrls": {
+    "_total": 0
+  },
+  "positions": {
+    "_total": 3,
+    "values": [
+      {
+        "company": {
+          "name": "Silicon-Prairie.Net LLC"
+        },
+        "id": 590660488,
+        "isCurrent": true,
+        "startDate": {
+          "month": 10,
+          "year": 2014
+        },
+        "summary": "Bleeding edge web development, for local businesses and individuals abroad. Delivering full stack development using \nLinux, Nginx, Apache, Mariadb, Php\nMariadb, ExpressJS, AngularJS, NodeJS\/NoSQL (Redis)\nFree SSL using the latest standards put forward by the Acme Protocol.\nNotable projects as of late\nhttps:\/\/www.pumpers.com\nhttps:\/\/www.saprankings.com",
+        "title": "Principal"
+      },
+      {
+        "company": {
+          "id": 589456,
+          "industry": "Internet",
+          "name": "Silvergear LLC",
+          "size": "1-10 employees",
+          "ticker": "",
+          "type": "Privately Held"
+        },
+        "endDate": {
+          "month": 10,
+          "year": 2014
+        },
+        "id": 324697720,
+        "isCurrent": false,
+        "startDate": {
+          "month": 4,
+          "year": 2006
+        },
+        "summary": "Professional Web Development using a wide variety of Content Management Systems, PHP and Javascript Frameworks, E-Commerce Systems as well as websites from scratch. \n\nCustom development of plugins and extensions for said Content Management Systems and E-Commerce Systems.\n\nA proud member of the DevICT community\n\nA contributor to the Joomla Bug Squad and Joomla standalone Framework.",
+        "title": "Past: Independant Contract - Present: Lead Web Developer"
+      },
+      {
+        "company": {
+          "name": "Self-employed"
+        },
+        "endDate": {
+          "month": 5,
+          "year": 2013
+        },
+        "id": 306785655,
+        "isCurrent": false,
+        "startDate": {
+          "month": 4,
+          "year": 2006
+        },
+        "summary": "Developing code, working with frameworks and all varieties of CMS'\nContracting and web development for several IT firms.",
+        "title": "Owner"
+      }
+    ]
+  },
+  "primaryTwitterAccount": {
+    "providerAccountId": "614543081",
+    "providerAccountName": "muck_slinger"
+  },
+  "publicProfileUrl": "https:\/\/www.linkedin.com\/in\/lylemcclanahan",
+  "recommendationsReceived": {
+    "_total": 0
+  },
+  "relatedProfileViews": {
+    "_total": 10,
+    "values": [
+      {
+        "firstName": "Charley",
+        "id": "LQKIinz-9d",
+        "lastName": "Wraight"
+      },
+      {
+        "firstName": "Taylor",
+        "id": "lhtM-2QLD_",
+        "lastName": "J."
+      },
+      {
+        "firstName": "Christine",
+        "id": "79t_YatcuS",
+        "lastName": "B."
+      },
+      {
+        "firstName": "Eric",
+        "id": "IvOJqImQ0-",
+        "lastName": "Wittman"
+      },
+      {
+        "firstName": "Justin",
+        "id": "AVJ9hVLhmn",
+        "lastName": "Cary"
+      },
+      {
+        "firstName": "John",
+        "id": "07V8oeTq_7",
+        "lastName": "Lenhardt"
+      },
+      {
+        "firstName": "Anil",
+        "id": "nh0MMHXe9H",
+        "lastName": "Gogineni"
+      },
+      {
+        "firstName": "Joseph",
+        "id": "4MdT_W5Lhx",
+        "lastName": "A."
+      },
+      {
+        "firstName": "Micah",
+        "id": "jdkzq_daWS",
+        "lastName": "A."
+      },
+      {
+        "firstName": "Lori Ann",
+        "id": "vWnZ-XnJlU",
+        "lastName": "R."
+      }
+    ]
+  },
+  "siteStandardProfileRequest": {
+    "url": "https:\/\/www.linkedin.com\/profile\/view?id=198216488&authType=name&authToken=rNJi&trk=api*a202398*s210470*"
+  },
+  "skills": {
+    "_total": 50,
+    "values": [
+      {
+        "id": 51,
+        "skill": {
+          "name": "Web Development"
+        }
+      },
+      {
+        "id": 52,
+        "skill": {
+          "name": "MySQL"
+        }
+      },
+      {
+        "id": 53,
+        "skill": {
+          "name": "PHP"
+        }
+      },
+      {
+        "id": 54,
+        "skill": {
+          "name": "JavaScript"
+        }
+      },
+      {
+        "id": 55,
+        "skill": {
+          "name": "CSS"
+        }
+      },
+      {
+        "id": 56,
+        "skill": {
+          "name": "CMS"
+        }
+      },
+      {
+        "id": 57,
+        "skill": {
+          "name": "Apache"
+        }
+      },
+      {
+        "id": 58,
+        "skill": {
+          "name": "MVC"
+        }
+      },
+      {
+        "id": 59,
+        "skill": {
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 60,
+        "skill": {
+          "name": "HTML 5"
+        }
+      },
+      {
+        "id": 61,
+        "skill": {
+          "name": "HTML"
+        }
+      },
+      {
+        "id": 62,
+        "skill": {
+          "name": "Web Design"
+        }
+      },
+      {
+        "id": 63,
+        "skill": {
+          "name": "jQuery"
+        }
+      },
+      {
+        "id": 64,
+        "skill": {
+          "name": "Joomla"
+        }
+      },
+      {
+        "id": 65,
+        "skill": {
+          "name": "XML"
+        }
+      },
+      {
+        "id": 66,
+        "skill": {
+          "name": "Web Applications"
+        }
+      },
+      {
+        "id": 67,
+        "skill": {
+          "name": "AJAX"
+        }
+      },
+      {
+        "id": 68,
+        "skill": {
+          "name": "JSON"
+        }
+      },
+      {
+        "id": 69,
+        "skill": {
+          "name": "Drupal"
+        }
+      },
+      {
+        "id": 70,
+        "skill": {
+          "name": "Varnish"
+        }
+      },
+      {
+        "id": 71,
+        "skill": {
+          "name": "SQL"
+        }
+      },
+      {
+        "id": 72,
+        "skill": {
+          "name": "XHTML"
+        }
+      },
+      {
+        "id": 73,
+        "skill": {
+          "name": "Web Services"
+        }
+      },
+      {
+        "id": 74,
+        "skill": {
+          "name": "ASP"
+        }
+      },
+      {
+        "id": 75,
+        "skill": {
+          "name": "OOP"
+        }
+      },
+      {
+        "id": 76,
+        "skill": {
+          "name": "CSS3"
+        }
+      },
+      {
+        "id": 77,
+        "skill": {
+          "name": "Git"
+        }
+      },
+      {
+        "id": 78,
+        "skill": {
+          "name": "LAMP"
+        }
+      },
+      {
+        "id": 79,
+        "skill": {
+          "name": "SOAP"
+        }
+      },
+      {
+        "id": 80,
+        "skill": {
+          "name": "Magento"
+        }
+      },
+      {
+        "id": 81,
+        "skill": {
+          "name": "C#"
+        }
+      },
+      {
+        "id": 82,
+        "skill": {
+          "name": "ASP.NET"
+        }
+      },
+      {
+        "id": 83,
+        "skill": {
+          "name": "Java"
+        }
+      },
+      {
+        "id": 84,
+        "skill": {
+          "name": ".NET"
+        }
+      },
+      {
+        "id": 85,
+        "skill": {
+          "name": "Wordpress"
+        }
+      },
+      {
+        "id": 86,
+        "skill": {
+          "name": "Visual Studio"
+        }
+      },
+      {
+        "id": 87,
+        "skill": {
+          "name": "Databases"
+        }
+      },
+      {
+        "id": 88,
+        "skill": {
+          "name": "Troubleshooting"
+        }
+      },
+      {
+        "id": 89,
+        "skill": {
+          "name": "SASS"
+        }
+      },
+      {
+        "id": 90,
+        "skill": {
+          "name": "Node.js"
+        }
+      },
+      {
+        "id": 91,
+        "skill": {
+          "name": "AngularJS"
+        }
+      },
+      {
+        "id": 92,
+        "skill": {
+          "name": "CodeIgniter"
+        }
+      },
+      {
+        "id": 93,
+        "skill": {
+          "name": "CakePHP"
+        }
+      },
+      {
+        "id": 94,
+        "skill": {
+          "name": "Laravel"
+        }
+      },
+      {
+        "id": 95,
+        "skill": {
+          "name": "Redis"
+        }
+      },
+      {
+        "id": 96,
+        "skill": {
+          "name": "Memcached"
+        }
+      },
+      {
+        "id": 97,
+        "skill": {
+          "name": "Opencart"
+        }
+      },
+      {
+        "id": 98,
+        "skill": {
+          "name": "Symfony"
+        }
+      },
+      {
+        "id": 99,
+        "skill": {
+          "name": "PHPUnit"
+        }
+      },
+      {
+        "id": 100,
+        "skill": {
+          "name": "Zend Framework"
+        }
+      }
+    ]
+  },
+  "suggestions": {
+    "toFollow": {
+      "companies": {
+        "_count": 100,
+        "_start": 0,
+        "values": [
+          {
+            "id": 291744,
+            "name": "NextBigWhat"
+          },
+          {
+            "id": 898469,
+            "name": "Insync"
+          },
+          {
+            "id": 895431,
+            "name": "Plurk Inc."
+          },
+          {
+            "id": 2022092,
+            "name": "RightClick Limited"
+          },
+          {
+            "id": 1635176,
+            "name": "HeyStaks"
+          },
+          {
+            "id": 1927176,
+            "name": "Co-creation Hub Nigeria"
+          },
+          {
+            "id": 1171805,
+            "name": "SOFTtribe"
+          },
+          [],
+          {
+            "id": 58655,
+            "name": "DyKnow"
+          },
+          {
+            "id": 1094652,
+            "name": "Pachube"
+          },
+          {
+            "id": 644776,
+            "name": "LastPass"
+          },
+          {
+            "id": 1838215,
+            "name": "Negri Electronics"
+          },
+          {
+            "id": 618834,
+            "name": "Wooden Window, Inc."
+          },
+          {
+            "id": 154250,
+            "name": "MOZAT PTE LTD"
+          },
+          {
+            "id": 1569120,
+            "name": "SISTEC Solu\u00e7\u00f5es, S.A."
+          },
+          {
+            "id": 2379515,
+            "name": "MIH SWAT"
+          },
+          {
+            "id": 399901,
+            "name": "MTech Communications PLC"
+          },
+          {
+            "id": 225262,
+            "name": "ARRC Technology"
+          },
+          {
+            "id": 144756,
+            "name": "ISM Technology Recruitment"
+          },
+          {
+            "id": 656892,
+            "name": "Slashdot"
+          },
+          {
+            "id": 75650,
+            "name": "In-Touch Insight Systems"
+          },
+          {
+            "id": 71152,
+            "name": "AEC Cloud | Powered by The Cram Group"
+          },
+          {
+            "id": 49836,
+            "name": "Prescient Solutions"
+          },
+          {
+            "id": 78261,
+            "name": "Washington Partners"
+          },
+          {
+            "id": 45938,
+            "name": "Ars Technica"
+          },
+          {
+            "id": 2066534,
+            "name": "Noah Consulting , An Infosys Company"
+          },
+          {
+            "id": 141227,
+            "name": "Navvia"
+          },
+          {
+            "id": 130668,
+            "name": "NeoSaej"
+          },
+          {
+            "id": 125074,
+            "name": "Thrasys, Inc."
+          },
+          {
+            "id": 68968,
+            "name": "Kingfish Group"
+          },
+          {
+            "id": 823372,
+            "name": "CITzar Limited"
+          },
+          {
+            "id": 348273,
+            "name": "Lelesys Informatik GmbH, Frankfurt"
+          },
+          {
+            "id": 1031796,
+            "name": "Techbiz Ltd"
+          },
+          {
+            "id": 607530,
+            "name": "immedia"
+          },
+          {
+            "id": 63532,
+            "name": "Flexware Innovation"
+          },
+          {
+            "id": 2298143,
+            "name": "94labs"
+          },
+          {
+            "id": 113533,
+            "name": "Centtric Marketing Systems"
+          },
+          {
+            "id": 1030168,
+            "name": "DNS Made Easy"
+          },
+          {
+            "id": 130241,
+            "name": "ParishSOFT"
+          },
+          {
+            "id": 209816,
+            "name": "Enem Technologies Private Limited"
+          },
+          {
+            "id": 2494614,
+            "name": "Blalock Walters, P.A."
+          },
+          {
+            "id": 2449839,
+            "name": "WGroup"
+          },
+          {
+            "id": 2167489,
+            "name": "Deep Water Point"
+          },
+          {
+            "id": 1783432,
+            "name": "Osborne Interim Management"
+          },
+          {
+            "id": 1663867,
+            "name": "School Administrators of Iowa"
+          },
+          {
+            "id": 1277394,
+            "name": "Torreya Partners"
+          },
+          [],
+          {
+            "id": 1028114,
+            "name": "NAESP"
+          },
+          {
+            "id": 941484,
+            "name": "Widelity, Inc."
+          },
+          {
+            "id": 773678,
+            "name": "Quantum Media"
+          },
+          {
+            "id": 694619,
+            "name": "AWSA  Association of Wisconsin School Administrators"
+          },
+          {
+            "id": 468685,
+            "name": "Dugan & Lopatka CPAs"
+          },
+          {
+            "id": 432665,
+            "name": "SIERRA U.S. - Commercial Real Estate"
+          },
+          {
+            "id": 408303,
+            "name": "Illinois Principals Association"
+          },
+          {
+            "id": 298583,
+            "name": "DIGIOVINE HNILO JORDAN + JOHNSON LTD. (DHJJ)"
+          },
+          {
+            "id": 242108,
+            "name": "School Administrators Association of New York State"
+          },
+          {
+            "id": 235003,
+            "name": "The Greenway Group"
+          },
+          {
+            "id": 226594,
+            "name": "National Association of Secondary School Principals\/Student Councils"
+          },
+          {
+            "id": 154645,
+            "name": "Powers, Pyles, Sutter & Verville, P.C."
+          },
+          {
+            "id": 149576,
+            "name": "Walden Businesses, Inc."
+          },
+          {
+            "id": 144895,
+            "name": "KLNB Retail"
+          },
+          {
+            "id": 119712,
+            "name": "Peters & Co. Limited"
+          },
+          {
+            "id": 105601,
+            "name": "PRM Consulting Group, Inc."
+          },
+          {
+            "id": 105085,
+            "name": "Olsson Frank Weeda Terman Matz PC"
+          },
+          {
+            "id": 94060,
+            "name": "Packer Thomas"
+          },
+          {
+            "id": 79276,
+            "name": "AASA,The School Superintendents Association"
+          },
+          {
+            "id": 79064,
+            "name": "Alliance Cost Containment"
+          },
+          {
+            "id": 78024,
+            "name": "Sullivan Group"
+          },
+          {
+            "id": 74793,
+            "name": "GHT Limited"
+          },
+          {
+            "id": 72995,
+            "name": "Atticus Management"
+          },
+          {
+            "id": 65555,
+            "name": "Texada Software"
+          },
+          {
+            "id": 65546,
+            "name": "The Arnold Group"
+          },
+          {
+            "id": 50713,
+            "name": "Williams Tison"
+          },
+          {
+            "id": 29235,
+            "name": "The MAC Group"
+          },
+          {
+            "id": 27463,
+            "name": "Miles & Stockbridge P.C."
+          },
+          {
+            "id": 2275065,
+            "name": "SellanApp"
+          },
+          {
+            "id": 1490817,
+            "name": "Bootup Entrepreneurial Society"
+          },
+          {
+            "id": 554236,
+            "name": "JoomConnect"
+          },
+          {
+            "id": 445078,
+            "name": "WiredTree"
+          },
+          {
+            "id": 106225,
+            "name": "SRC Computers, LLC"
+          },
+          {
+            "id": 1690931,
+            "name": "Entrepreneur Club UK"
+          },
+          {
+            "id": 45031,
+            "name": "NetCom Learning"
+          },
+          {
+            "id": 1515109,
+            "name": "KeKu"
+          },
+          {
+            "id": 275310,
+            "name": "Tech One Global Ltd"
+          },
+          {
+            "id": 273082,
+            "name": "Avion Technology Inc."
+          },
+          {
+            "id": 1108703,
+            "name": "StartupNorth"
+          },
+          {
+            "id": 1773785,
+            "name": "iHub Nairobi"
+          },
+          {
+            "id": 1191538,
+            "name": "PhaseDev"
+          },
+          {
+            "id": 1022227,
+            "name": "Oxynade"
+          },
+          {
+            "id": 856314,
+            "name": "Solar Roadways Incorporated"
+          },
+          {
+            "id": 722526,
+            "name": "TECHdotMN"
+          },
+          {
+            "id": 618657,
+            "name": "Mobile Nations"
+          },
+          {
+            "id": 57263,
+            "name": "Wheels of Zeus"
+          },
+          {
+            "id": 52797,
+            "name": "Phase 2"
+          },
+          {
+            "id": 147746,
+            "name": "Prime View"
+          },
+          {
+            "id": 1751,
+            "name": "Samsung SDS"
+          },
+          {
+            "id": 420927,
+            "name": "Opendream Co., Ltd."
+          },
+          {
+            "id": 2140148,
+            "name": "Milk Inc."
+          },
+          {
+            "id": 1797548,
+            "name": "Present.Me"
+          },
+          {
+            "id": 13166,
+            "name": "Inventive Designers"
+          }
+        ]
+      },
+      "industries": {
+        "_total": 0
+      },
+      "newsSources": {
+        "_total": 0
+      },
+      "people": {
+        "_total": 0
+      }
+    }
+  },
+  "summary": "If you have a business in Wichita, Kansas and a website promoting that business odds are that I've done a little bit of work on it in the past and I would like to introduce you to my new startup Silicon-Prairie.Net. \nOur goal is to bring the absolute latest in bleeding edge technology to the midwest and offer it for less than what our competitors charge for the same old previous generation technology and services. The difference is our competition is business minded, so much so that they lose focus on technology. We know you know how to run your business, we're here to focus our attention on your technology.\n\nProfessional web developer with nearly a decade of real world experience. Worked in teams as well as independently. I've maintained working relationships with clients for several years after business relationships were finished and I love nothing more than learning new technology.",
+  "threeCurrentPositions": {
+    "_total": 1,
+    "values": [
+      {
+        "company": {
+          "name": "Silicon-Prairie.Net LLC"
+        },
+        "id": 590660488,
+        "isCurrent": true,
+        "startDate": {
+          "month": 10,
+          "year": 2014
+        },
+        "summary": "Bleeding edge web development, for local businesses and individuals abroad. Delivering full stack development using \nLinux, Nginx, Apache, Mariadb, Php\nMariadb, ExpressJS, AngularJS, NodeJS\/NoSQL (Redis)\nFree SSL using the latest standards put forward by the Acme Protocol.\nNotable projects as of late\nhttps:\/\/www.pumpers.com\nhttps:\/\/www.saprankings.com",
+        "title": "Principal"
+      }
+    ]
+  },
+  "threePastPositions": {
+    "_total": 2,
+    "values": [
+      {
+        "company": {
+          "id": 589456,
+          "industry": "Internet",
+          "name": "Silvergear LLC",
+          "size": "1-10 employees",
+          "ticker": "",
+          "type": "Privately Held"
+        },
+        "endDate": {
+          "month": 10,
+          "year": 2014
+        },
+        "id": 324697720,
+        "isCurrent": false,
+        "startDate": {
+          "month": 4,
+          "year": 2006
+        },
+        "summary": "Professional Web Development using a wide variety of Content Management Systems, PHP and Javascript Frameworks, E-Commerce Systems as well as websites from scratch. \n\nCustom development of plugins and extensions for said Content Management Systems and E-Commerce Systems.\n\nA proud member of the DevICT community\n\nA contributor to the Joomla Bug Squad and Joomla standalone Framework.",
+        "title": "Past: Independant Contract - Present: Lead Web Developer"
+      },
+      {
+        "company": {
+          "name": "Self-employed"
+        },
+        "endDate": {
+          "month": 5,
+          "year": 2013
+        },
+        "id": 306785655,
+        "isCurrent": false,
+        "startDate": {
+          "month": 4,
+          "year": 2006
+        },
+        "summary": "Developing code, working with frameworks and all varieties of CMS'\nContracting and web development for several IT firms.",
+        "title": "Owner"
+      }
+    ]
+  },
+  "twitterAccounts": {
+    "_total": 1,
+    "values": [
+      {
+        "providerAccountId": "614543081",
+        "providerAccountName": "muck_slinger"
+      }
+    ]
+  },
+  "volunteer": {
+    "causes": {
+      "_total": 5,
+      "values": [
+        {
+          "name": "animalRights"
+        },
+        {
+          "name": "education"
+        },
+        {
+          "name": "humanitarianRelief"
+        },
+        {
+          "name": "povertyAlleviation"
+        },
+        {
+          "name": "scienceAndTechnology"
+        }
+      ]
+    },
+    "opportunities": {
+      "boardMember": false,
+      "proBono": true
+    },
+    "volunteerExperiences": {
+      "_total": 1,
+      "values": [
+        {
+          "id": 590660489,
+          "organization": {
+            "id": 3082090,
+            "name": "Wichita Habitat for Humanity"
+          },
+          "role": "Volunteer"
+        }
+      ]
+    }
+  }
+}
